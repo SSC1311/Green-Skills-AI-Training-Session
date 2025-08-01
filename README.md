@@ -15,7 +15,7 @@ Day 3: Energy dataset analysis, data cleaning, EDA
 
 Day 4: NBA dataset visualizations using matplotlib & seaborn
 
-Day 5: [In Progress]
+Day 5: Olympic dataset exploration, missing value handling, medal statistics, visualizations using bar and pie charts
 
 
 🛠️ Tools & Libraries
