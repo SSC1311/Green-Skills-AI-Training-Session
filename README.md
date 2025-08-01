@@ -1,4 +1,5 @@
 🌱 Green and AI Skills Training Program (Ongoing)
+
 This repository documents my progress and hands-on work from the 15-day "Green and AI Skills" Training Program, exclusively designed for B.E. Computer Engineering students in collaboration with Shell Digital India Pvt. Ltd.
 
 📘 Repository Overview
@@ -28,18 +29,19 @@ Seaborn, Matplotlib
 
 Scikit-learn
 
-🎯 Key Takeaways
-AI-driven analysis on real-world datasets
+🎯 Key Takeaways:-
+1) AI-driven analysis on real-world datasets
 
-Data preprocessing and feature engineering
+2) Data preprocessing and feature engineering
 
-Sustainability-focused analytics using clean energy data
+3) Sustainability-focused analytics using clean energy data
 
-Visual storytelling using data plots
+4) Visual storytelling using data plots
 
-📥 Clone this Repository
+📥 Clone this Repository :-
+
 git clone https://github.com/your-username/green-ai-skills.git
 
 
-🙏 Acknowledgement
+🙏 Acknowledgement :-
 Special thanks to Shell Digital India Pvt. Ltd., the Training & Placement Cell, and all faculty members involved for enabling this valuable learning opportunity.
