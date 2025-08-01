@@ -5,6 +5,7 @@ This repository documents my progress and hands-on work from the 15-day "Green a
 Each folder or notebook corresponds to daily activities, code exercises, and data analysis tasks completed during the training.
 
 ✅ Completed Days
+
 Day 1: Python data structures, functions, sets, classes
 
 Day 2: NumPy & Pandas – arrays, reshaping, NaN handling
