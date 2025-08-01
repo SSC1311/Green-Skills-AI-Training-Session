@@ -20,7 +20,7 @@ Day 5: [In Progress]
 
 🛠️ Tools & Libraries
 
-Python 3.x
+Python 3.12.3
 
 Jupyter Notebook
 
